@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Final_SummerPlan_Tyrese_Fisher">
+    <Resource name="jdbc/java3final" type="javax.sql.DataSource" auth="Container" 
+        driverClassName="com.mysql.cj.jdbc.Driver" 
+        url="jdbc:mysql://localhost:3306/java3final?serverTimezone=UTC" 
+        username="root" password="1111" 
+        maxActive="100" maxIdle="30" maxWait="10002" 
+        logAbandoned="true" removeAbandoned="true" 
+        removeAbandonedTimeout="60"  />                  
+</Context>

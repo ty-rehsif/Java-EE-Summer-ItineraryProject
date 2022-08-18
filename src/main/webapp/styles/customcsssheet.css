@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 8, 2021, 9:26:18 PM
+    Author     : Tyrese Fisher
+*/
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    color:navy;
+    font-family: calibri;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2{
+    text-align: center;
+    font-weight: bold;
+    color:navy;
+    font-family: calibri;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+section{
+    text-align: center;
+    border: 10px solid navy;
+    border-style: outset;
+    padding: 1em; 
+    background-color: white;
+}
+
+p{
+    font-family: calibri;
+    font-weight: bold;
+    font-size: large;
+}
+
+a{
+   font-family: calibri;
+   color:red;
+   font-weight: bold;
+}
+
+body{
+    background-color: whitesmoke;
+    
+}
+
